@@ -1,0 +1,5 @@
+0 birthday;anonymized feature 6
+1 education;concentration;id;anonymized feature 14
+2 education;degree;id;anonymized feature 22
+3 education;school;id;anonymized feature 50
+4 education;school;id;anonymized feature 52

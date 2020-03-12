@@ -1,0 +1,2 @@
+same_concentration 345 765 335 143
+same_school 345 335 253
